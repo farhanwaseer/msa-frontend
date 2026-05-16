@@ -137,25 +137,26 @@ const pastEvents = [
   {
     title: "Welcome Back Party",
     tag: "Party",
-    img: "https://wpassets.graana.com/blog/wp-content/uploads/2023/01/bmw-i8-in-blue-colours-with-opened-doors.jpg",
+    // img: "https://wpassets.graana.com/blog/wp-content/uploads/2023/01/bmw-i8-in-blue-colours-with-opened-doors.jpg",
+    img: "https://scontent.fisb12-1.fna.fbcdn.net/v/t39.30808-6/583057039_1271559065010645_2105879879095825758_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeEq-k7a0wmGv0eZyDOUP8E8d_Zg5ug__K139mDm6D_8rd7FCiok3ZCFpVC7Htcjg1Rn8Vn6DJVmY1zx5FmOZVVv&_nc_ohc=j2lGibGAGPoQ7kNvwFAcdg3&_nc_oc=Adqjg_rvhVi3nSfUNNH1ERNtUhxH6TXesntmYkw4hEP8vCOFZm3ZlyE5TVDpvzSZwds&_nc_zt=23&_nc_ht=scontent.fisb12-1.fna&_nc_gid=1AQm_4DI-0KM7_4yK2QtHw&_nc_ss=7b2a8&oh=00_Af71-8jMnNdc976ZOob7gNfPPQVm5TeILD769MoaauAk9A&oe=6A0D788F",
     category: "Social Events",
   },
   {
-    title: "Campus Dance Night",
+    title: "Campus Night",
     tag: "Dance",
-    img: "https://wpassets.graana.com/blog/wp-content/uploads/2023/01/bmw-i8-in-blue-colours-with-opened-doors.jpg",
+    img: "https://scontent.fisb12-1.fna.fbcdn.net/v/t39.30808-6/600914778_1298559165643968_5931224996952833723_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeHYBsQX38I1ztOmakJ6oCaYFk8VhQiTUXEWTxWFCJNRcWRfEhTjx10sUo0piOTFj6Na3f1RlZ_4oQoqIMCdIZu7&_nc_ohc=rqdNWOfjkjYQ7kNvwH1Ya52&_nc_oc=Adr8HacOEFbmLbhX81258Bd_w4p57R3NvGT5pnj12BrPx3d0zQXoqU2yNmT3peRb2vM&_nc_zt=23&_nc_ht=scontent.fisb12-1.fna&_nc_gid=ELBtVVgztWozB5GcTdtkLQ&_nc_ss=7b2a8&oh=00_Af52x1gGAgm7TfU4qOQIxmuY51yW857n-9c65KxE-VqHXg&oe=6A0D9583",
     category: "Social Events",
   },
   {
-    title: "Game Night",
-    tag: "Games",
-    img: "https://wpassets.graana.com/blog/wp-content/uploads/2023/01/bmw-i8-in-blue-colours-with-opened-doors.jpg",
+    title: "Sports Day",
+    tag: "Sport",
+    img: "https://scontent.fisb12-1.fna.fbcdn.net/v/t1.6435-9/78432062_2687083157980750_6882920640731414528_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeEdB9jQciQTSmbAwAxeQOIwTDAEnOFUeEdMMASc4VR4RyeiGgyA1R9hGunrYKfGCzG-tZT1js-31NRIE0thl64B&_nc_ohc=XM0i5P48I-wQ7kNvwEtpAKq&_nc_oc=AdrUSVzxVvkoj_-kjHucoctZV_2qca0b6VO_ts_VUDIiMhAqQW8wTs2bD_e6YV1b3Xw&_nc_zt=23&_nc_ht=scontent.fisb12-1.fna&_nc_gid=JLAaVHV0d0eZvhLWrzM8qQ&_nc_ss=7b2a8&oh=00_Af7wY3DiqTJ1OpMdVp9E4NSftRhDzkv40zT7LjHhAQ-TDg&oe=6A2F2057",
     category: "Social Events",
   },
   {
     title: "Weekend Trip",
     tag: "Trip",
-    img: "https://wpassets.graana.com/blog/wp-content/uploads/2023/01/bmw-i8-in-blue-colours-with-opened-doors.jpg",
+    img: "https://scontent.fisb12-1.fna.fbcdn.net/v/t39.30808-6/487315253_1081747463991807_3048585339413109181_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeFKoXvU5yMVYbpk5-5prmaqvQLeSns58gy9At5KeznyDNvzrz84L1beSozihMzLHGMAxPTeFR_wEe_MC2LzmEM5&_nc_ohc=Kxt-bX5cNxwQ7kNvwHw5lPg&_nc_oc=Adp7d5p5Uux7uJibs1imKkACPRnrz0yNkjGmvWqkxF6SIdjf1PtwcLl5SBuXnEscijg&_nc_zt=23&_nc_ht=scontent.fisb12-1.fna&_nc_gid=OQgNkvFkpGjSq1Ntw7j4Fg&_nc_ss=7b2a8&oh=00_Af5-iTm9G1z7uTQEj33uN6PlbPC8Q0pz9iPbDkwcH-4sGQ&oe=6A0D83DC",
     category: "Social Events",
   },
 ];
